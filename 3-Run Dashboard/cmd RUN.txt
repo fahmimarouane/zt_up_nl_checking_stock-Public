@@ -1,0 +1,7 @@
+cmd admin : 
+
+npm install 
+npm install lucide-react xlsx
+npm install -D tailwindcss@3.4.1 postcss autoprefixer
+
+npm run dev
